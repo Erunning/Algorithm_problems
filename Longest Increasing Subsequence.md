@@ -1,5 +1,4 @@
-
-
+![image0](https://github.com/Erunning/Algorithm_solutions/blob/master/image/image0.png)
 ```cpp
 #include<stdio.h>
 #include<iostream>
