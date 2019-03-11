@@ -1,4 +1,4 @@
-![image1]()
+![image1](https://github.com/Erunning/Algorithm_solutions/blob/master/image/image1.png)
 ```cpp
 #include<stdio.h>
 #include<iostream>
