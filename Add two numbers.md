@@ -1,4 +1,4 @@
-![image1](https://github.com/Erunning/algorithm_solutions/blob/master/image/image3.png)
+![image](https://github.com/Erunning/algorithm_solutions/blob/master/image/image3.png)
 ```python3
 # Definition for singly-linked list.
 # class ListNode:
