@@ -1,5 +1,7 @@
 Maximum Subarray
+
 ![image4](https://github.com/Erunning/algorithm_solutions/blob/master/image/image4.png)
+
 遍历数组，算法复杂度O(n)
 以第i个元素为结尾的最大子序和 = max(第i个元素，第i个元素+以第i-1个元素为结尾的最大子序和)
 再从中再到真正的最大值
